@@ -16,7 +16,7 @@ few specific examples of how Concord is used and tasks it performs:
 - Deploy applications on Point of Sale and other hardware systems
 - Execute Ansible playbooks
 - Create, deploy and update OneOps assemblies and environments
-- Automatically create issues
+- Automatically create issue tickets
 - Notify process-related parties via email and messaging
 
 Find out more details such as benefits and use cases in the overview section,
